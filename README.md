@@ -25,8 +25,9 @@ This system has been trained and validated using images of objects such as water
 4. **Install Requirements**
    pip install -r requirements.txt
 
-5. **Run the Application**
+5. **Run the Application**  
    python Master.py
+   (please print out the ArUco marker, available in the repository as "Online ArUco markers generator.pdf", and place your object near the marker.)
 
 ## Training on Your Own Images
 
