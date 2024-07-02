@@ -15,17 +15,17 @@ This system has been trained and validated using images of objects such as water
 ### Steps
 
 1. **Clone the Repository**
-   git clone https://github.com/yourusername/Real-AODM-GITHUB.git
+   git clone https://github.com/bopeng20/Real-AODM.git  
    cd Real-AODM-GITHUB/SOFTWARE
 
-2. **Create and Activate Virtual Environment**
+3. **Create and Activate Virtual Environment**
    python -m venv real-aodm-env
    source real-aodm-env/bin/activate  # On Windows use `real-aodm-env\Scripts\activate`
 
-3. **Install Requirements**
+4. **Install Requirements**
    pip install -r requirements.txt
 
-4. **Run the Application**
+5. **Run the Application**
    python Master.py
 
 ## Training on Your Own Images
