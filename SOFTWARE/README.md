@@ -16,7 +16,7 @@ This system has been trained and validated using images of specific objects such
 ### Steps
 
 1. **Clone the Repository**
-   git clone https://github.com/yourusername/Real-AODM-GITHUB.git
+   git clone https://github.com/yourusername/Real-AODM-GITHUB.git      
    cd Real-AODM-GITHUB/SOFTWARE
 
 2. **Create and Activate Virtual Environment**
@@ -40,4 +40,4 @@ This system has been trained and validated using images of specific objects such
 
 ## Contact
 
-For more information, please contact bxp@aiplusie.coms
+For more information, please contact bxp@aiplusie.com
