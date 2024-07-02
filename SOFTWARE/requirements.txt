@@ -1,4 +1,4 @@
-# YOLOv5 requirements
+# Real AODM requirements
 # Usage: pip install -r requirements.txt
 
 # Base ------------------------------------------------------------------------
