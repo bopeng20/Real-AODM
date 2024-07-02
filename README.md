@@ -2,7 +2,7 @@
 ![Sample Image](SOFTWARE/sample.png)
 
 ## Overview
-Here, we present Real-AODM, a Realtime Autonomous Object Detection and Measurement System. Leveraging state-of-the-art YOLOv5 for object detection and ArUco marker-based measurement techniques, Real-AODM is designed to perform real-time autonomous detection and measurement of objects using various camera devices.
+Here, we present Real-AODM, a Realtime Autonomous Object Detection and Measurement System (paper under review). Leveraging state-of-the-art YOLOv5 for object detection and ArUco marker-based measurement techniques, Real-AODM is designed to perform real-time autonomous detection and measurement of objects using various camera devices.
 
 This system has been trained and validated using images of objects such as water bottle caps, external hard drives, and steel plates. Experimental results demonstrate that Real-AODM achieves high detection accuracy and exact measurements, highlighting its potential for diverse industrial applications. Integrating advanced computer vision techniques makes Real-AODM a robust and efficient solution for real-time object analysis.
 
