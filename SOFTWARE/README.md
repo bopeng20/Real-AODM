@@ -27,8 +27,8 @@ This system has been trained and validated using images of specific objects such
    pip install -r requirements.txt
 
 4. **Run the Application**
-   python Master.py
-
+   python Master.py      
+   (please print out the ArUco marker, available in the repository as "Online ArUco markers generator.pdf", and place your object near the marker.)
 ## Training on Your Own Images
 
 1. **Label Your Images**
